@@ -36,6 +36,7 @@ export default {
   */
   plugins: [
     { src: '@/plugins/vuedraggable'},
+    { src: '@/plugins/firebase'}
   ],
   /*
   ** Auto import components
